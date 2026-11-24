@@ -1,0 +1,150 @@
+{
+  "format": "lanjut-resume",
+  "version": 1,
+  "title": "Vishakitha",
+  "template": "elok",
+  "language": "en",
+  "showIcons": true,
+  "sectionSpacing": 0,
+  "letterSpacing": 0,
+  "nameScale": 1.1,
+  "titleScale": 1,
+  "bodyScale": 1,
+  "header": {
+    "firstName": "Vishakitha",
+    "lastName": "V",
+    "jobTitle": "React Native Developer",
+    "email": "vishakitha71@gmail.com",
+    "phone": "+919655848215",
+    "website": "https://vishakitha.github.io/me/",
+    "linkedin": "linkedin.com/in/vishakitha-v",
+    "link": "github.com/vishakitha",
+    "city": "Kanyakumari",
+    "province": "",
+    "country": "India"
+  },
+  "sections": [
+    {
+      "type": "summary",
+      "title": "Summary",
+      "hidden": false,
+      "body": "React Native Developer with 1+ years of experience developing web and cross-platform mobile applications using React, React Native, JavaScript, and Expo. Skilled in building reusable UI components, integrating REST APIs, working with MySQL, and debugging applications, with a strong focus on problem-solving and continuous technical growth."
+    },
+    {
+      "type": "experience",
+      "title": "Experience",
+      "hidden": false,
+      "entries": [
+        {
+          "title": "Junior Software Developer",
+          "company": "Ordinal Technology Solutions Private Limited",
+          "location": "Kanniyakumari, Tamil Nadu",
+          "companyContext": "Software solutions provider for ERP, web, and mobile applications.",
+          "website": "ordinal.in",
+          "startDate": "Nov 2025",
+          "endDate": "Present",
+          "description": "[**Ordinal Campus — ERP Platform**](https://campus.ordinal.in/)\n\n- Test ERP modules, troubleshoot application issues, and support ongoing product maintenance.\n- Integrate REST APIs into the mobile application, including API testing, response handling, and dynamic data rendering.\n- Implement new features and enhance existing mobile application functionality to improve usability and meet evolving business requirements.\n- Handle technical support requests and verify application functionality across modules.\n\n[**Findby — Web & Mobile Applications**](https://www.findby.in/)\n\n- Develop and maintain web features using Next.js and mobile application features using React Native and Expo.\n- Implement new features, fix bugs, and improve functionality across web and mobile platforms.\n- Develop the Recent History feature and maintain business listing functionality on the web platform.\n- Integrate APIs, handle dynamic data, and perform functional testing and debugging."
+        }
+      ]
+    },
+    {
+      "type": "internship",
+      "title": "Internship",
+      "hidden": false,
+      "entries": []
+    },
+    {
+      "type": "projects",
+      "title": "Projects",
+      "hidden": false,
+      "entries": []
+    },
+    {
+      "type": "education",
+      "title": "Education",
+      "hidden": false,
+      "entries": [
+        {
+          "institution": "Udaya College of Arts and Science",
+          "degree": "M.Sc. Computer Science",
+          "location": "Kanyakumari, Tamil Nadu",
+          "startDate": "2025",
+          "endDate": "Present",
+          "details": "Currently pursuing a postgraduate degree in Computer Science."
+        },
+        {
+          "institution": "Infant Jesus College of Arts and Science for Women",
+          "degree": "B.Sc. Computer Science",
+          "location": "Mulagumoodu, Kanyakumari District",
+          "startDate": "2022",
+          "endDate": "2025",
+          "details": "Graduated with a GPA of 7.97/10.0"
+        }
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certifications",
+      "hidden": false,
+      "entries": []
+    },
+    {
+      "type": "skills",
+      "title": "Skills",
+      "hidden": false,
+      "entries": [
+        {
+          "name": "Mobile App Development: React Native, Expo, Expo Router",
+          "level": "Expert"
+        },
+        {
+          "name": "Frontend Development: React.js, Next.js, HTML5, CSS3, Bootstrap",
+          "level": "Expert"
+        },
+        {
+          "name": "Programming Languages: JavaScript, Python, SQL, TypeScript",
+          "level": "Expert"
+        },
+        {
+          "name": "Backend & API:  REST API Integration, API Testing",
+          "level": "Advanced"
+        },
+        {
+          "name": "Databases: MySQL, MongoDB",
+          "level": "Advanced"
+        },
+        {
+          "name": "Tools & Platforms: Git/Github,GitLab, Talend API Tester, Asana",
+          "level": "Advanced"
+        },
+        {
+          "name": "Development Practices: Responsive Web Development, Debugging, Functional Testing, Cross-Platform Development",
+          "level": "Advanced"
+        }
+      ],
+      "columns": 1,
+      "showProficiency": false
+    },
+    {
+      "type": "languages",
+      "title": "Languages",
+      "hidden": false,
+      "entries": [],
+      "columns": 2,
+      "showProficiency": true
+    },
+    {
+      "type": "organizations",
+      "title": "Organizations",
+      "hidden": false,
+      "entries": []
+    },
+    {
+      "type": "custom",
+      "variant": "rich",
+      "title": "Skills",
+      "hidden": true,
+      "body": "**Programming Languages:** JavaScript, Python, SQL\n\n**Frontend Development:** React.js, Next.js, HTML5, CSS3, Bootstrap\n\n**Mobile App Development:** React Native, Expo\n\n**Backend & API:** Django, Flask, Node.js, REST API Integration, API Testing\n\n**Databases:** MySQL, MongoDB\n\n**Tools & Platforms:** GitLab, Talend API Tester, Asana\n\n**Development Practices:** Responsive Web Development, Debugging, Functional Testing, Cross-Platform Development"
+    }
+  ]
+}
